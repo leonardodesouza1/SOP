@@ -1,0 +1,11 @@
+echo "Leonardo" > clientes.script
+echo "echo "Joinville" >> clientes01.txt" >> clientes.script
+echo "mkdir clientes" >> clientes.script
+echo "ls" >> clientes.script
+echo "mv clientes01.txt clientes" >> clientes.script
+echo "cd clientes" >> clientes.script
+echo "less clientes01.txt" >> clientes.script
+echo "cp clientes01.txt clientes1.txt.bkp" >> clientes.script
+echo "ls" >> clientes.script
+echo "rm clientes01.txt" >> clientes.script
+echo "ls" >> clientes.script

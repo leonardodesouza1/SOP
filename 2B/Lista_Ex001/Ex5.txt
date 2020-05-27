@@ -1,0 +1,4 @@
+mv clientes01.txt clientes
+cd clientes
+ls
+less clientes01.txt

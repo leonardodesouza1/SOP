@@ -1,0 +1,3 @@
+cp clientes01.txt clientes1.txt.bkp
+ls
+less clientes1.txt.bkp

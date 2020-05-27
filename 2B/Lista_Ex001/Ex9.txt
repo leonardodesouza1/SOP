@@ -1,0 +1,3 @@
+chmod +x clientes.script
+./clientes.script
+* Criou outa pasta clientes com o clientes01.txt criado
